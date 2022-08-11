@@ -1,0 +1,25 @@
+[
+ {
+   "name": "unique_key",
+   "type": "STRING",
+   "mode": "NULLABLE"
+ },
+ {
+  
+   "name": "created_date",
+   "type": "TIMESTAMP",
+   "mode": "NULLABLE"
+ },
+ {
+  
+   "name": "complaint_type",
+   "type": "STRING",
+   "mode": "NULLABLE"
+ },  
+ {
+  
+   "name": "location_type",
+   "type": "STRING",
+   "mode": "NULLABLE"
+ }
+]
